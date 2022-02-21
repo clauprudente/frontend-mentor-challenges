@@ -1,0 +1,49 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;700&display=swap");
+/* resetando css */
+*,
+*:after,
+*:before {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+}
+body {
+  font-size: 100%;
+  list-style-type: none;
+  font-family: "Open Sans", sans-serif;
+  margin: 24px;
+  background-color: rgb(247, 247, 247);
+}
+
+header {
+  margin-bottom: 24px;
+  text-align: center;
+}
+
+h2 {
+  margin-bottom: 16px;
+}
+.challenges {
+  width: 100%;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-gap: 16px;
+}
+
+.challenge {
+  width: 100%;
+  box-shadow: 0px 4px 20px 0px rgba(0, 0, 0, 0.1);
+  border-radius: 8px;
+}
+
+.challenge__image {
+  width: 100%;
+  border-radius: 8px 8px 0 0;
+}
+
+.challenge__title {
+  padding: 20px;
+}
+/* TODO: Implementar CSS dificuldade */
+/* TODO: Implementar CSS tecnologias */

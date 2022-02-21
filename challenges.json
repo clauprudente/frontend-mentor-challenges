@@ -1,0 +1,10 @@
+[
+  {
+    "name": "Order summary component",
+    "description": "A perfect project for newbies who are starting to build confidence with layouts!",
+    "difficulty": 1,
+    "technologies": ["html", "css"],
+    "image": "/images/order-summary.jpg",
+    "url": "/order-summary-component/index.html"
+  }
+]

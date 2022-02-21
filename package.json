@@ -1,0 +1,19 @@
+{
+  "name": "frontend-mentor-challenges",
+  "version": "1.0.0",
+  "description": "Aqui você encontrará todos os desafios que realizei do Frontend Mentor",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clauprudente/frontend-mentor-challenges.git"
+  },
+  "author": "Cláudia Prudente",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/clauprudente/frontend-mentor-challenges/issues"
+  },
+  "homepage": "https://github.com/clauprudente/frontend-mentor-challenges#readme"
+}
