@@ -6,5 +6,13 @@
     "technologies": ["html", "css"],
     "image": "/images/order-summary.jpg",
     "url": "/order-summary-component/index.html"
+  },
+  {
+    "name": "FAQ accordion card",
+    "description": "In this challenge, you'll be building out an FAQ accordion. This is an extremely common front-end pattern, so it's a great opportunity to get some practice in!",
+    "difficulty": 1,
+    "technologies": ["html", "css", "js"],
+    "image": "/images/faq-accordion.jpg",
+    "url": "/faq-accordion-card-main/index.html"
   }
 ]
